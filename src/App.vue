@@ -11,3 +11,10 @@ export default {
   name: 'app'
 }
 </script>
+
+<style lang="scss">
+  main{
+    background-image: url('./assets/kotak.png');
+    background-size: cover;
+  }
+</style>
